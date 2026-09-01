@@ -1,0 +1,22 @@
+{
+    "coreNum":1,
+    "CaseName": "FCC",
+    "FCC_nCell":3,
+	"r": 0.01,
+    "surroundingPressure": 1.0e5,
+    "kn_pp": 1e8,
+	"kt_pp": 1e8,
+	"mu_pp": 0.5,
+    "kn_pw": 1e8,
+	"kt_pw": 1e8,
+	"mu_pw": 0.0,
+    "nStep": 100,
+    "outputCP": true,
+    "sc_dt": 0.01,
+    "max_dt": 5.0e-2,
+    "tol_MaxUF": 1e-3,
+	"tol_Ke": 1e-3,
+    "dampingRatio_G": 0.01,
+    "maxInter": 10000,
+    "outputFreq": 10
+  }
